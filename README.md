@@ -21,6 +21,6 @@ Once you have obtained and unzipped the source files, you will need to make one 
 
 ## Additional Information
 
-You can find additional information about the variables, data and transformations [Here](https://github.com/mostaafafarouk/Getting_And_Cleaning_Data.Project/blob/master/README.md)
+You can find additional information about the variables, data and transformations [Here](https://github.com/mostaafafarouk/Getting_And_Cleaning_Data.Project/blob/master/Code_Book.md)
 
 
